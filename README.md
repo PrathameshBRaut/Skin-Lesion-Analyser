@@ -1,8 +1,7 @@
 
 ## Skin-Lesion-Analyzer
 
-Live Web App: http://skin.test.woza.work/
-
+Live Web App: https://skin-disease-final-five.netlify.app/index.html
 <br>
 
 <img src="http://skin.test.woza.work/assets/app_pic.png" width="350"></img>
